@@ -1,0 +1,16 @@
+svg{
+  background-color:transparent;
+}
+.rubytop#left-side{
+  fill:rgb(243,34,34)
+}
+.rubytop#ruby-center{
+  fill:rgb(243,24,24)
+}
+.rubytop#right-side{
+  fill:rgb(243,44,44)
+}
+/*light effect is produced by using opacity when hovering over the polygon*/
+polygon:hover{
+  opacity:0.7;
+}
