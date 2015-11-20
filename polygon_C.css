@@ -1,0 +1,30 @@
+.C#container{
+  position:fixed;
+  margin-left:57em;
+  margin-top:100px;
+  background-color:transparent;
+}
+.C#center{
+  fill:rgb(75,145,105);
+}
+.C#top-1{
+  fill:rgb(75,155,95);
+}
+.C#top-2{
+  fill:rgb(75,145,110)
+}
+.C#bottom-1{
+  fill:rgb(75,155,115);
+}
+.C#bottom-2{
+  fill:rgb(75,165,125);
+}
+.C#bottom-3{
+  fill:rgb(75,165,125);
+}
+circle:hover{
+  opacity:0.7;
+}
+polygon:hover{
+  opacity:0.7;
+}
